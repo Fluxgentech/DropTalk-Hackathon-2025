@@ -5,7 +5,7 @@
   
   ### Innovate for Real-World Water Challenges with Tech
   
-  [Register Now](#registration) | [Guidelines](guidelines.md) | [Topics](topics.md) | [Timeline](timeline.md) | [Prizes](prizes.md)
+  [Register Now](https://forms.gle/QQQ5UR5nbScfbWkUA) | [Guidelines](guidelines.md) | [Topics](topics.md) | [Timeline](timeline.md) | [Prizes](prizes.md)
 </div>
 
 ## 🎯 About The Hackathon
