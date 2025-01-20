@@ -1,0 +1,142 @@
+name: DropTalk Hackathon Submission
+description: Submit your water-tech innovation project
+title: "[Project]: "
+labels: ["hackathon-submission", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for participating in the DropTalk Hackathon! Please fill out the details below for your submission.
+  
+  - type: input
+    id: name
+    attributes:
+      label: Full Name
+      description: Your full name as registered for the hackathon
+      placeholder: Aman Raj
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: Email Address
+      description: Email address used for hackathon registration
+      placeholder: you@example.com
+    validations:
+      required: true
+
+  - type: input
+    id: education
+    attributes:
+      label: Educational Background
+      description: Your degree program (BE/BTech/BDes/ME/MTech/BCA/MCA/BS/BSc)
+      placeholder: BTech Computer Science
+    validations:
+      required: true
+
+  - type: textarea
+    id: project-description
+    attributes:
+      label: Project Description
+      description: Provide a detailed description of your water-tech innovation
+      placeholder: My project addresses the water challenge by...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: Problem Statement
+      description: What specific water-related challenge does your project address?
+      placeholder: The problem I'm solving is...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: track
+    attributes:
+      label: Project Track
+      description: Select your project track
+      options:
+        - Drone based leak detection tech
+        - Real time water sustainability assistant
+        - Smart storm water management System
+        - Water credits trading system
+        - Digital twins for water infrastructure
+        - Bioindicator Network for Ecosystem
+        - Water quality report system
+        - Automated River health monitoring
+        - Blockchain for water supply Chain
+    validations:
+      required: true
+
+  - type: textarea
+    id: tech-stack
+    attributes:
+      label: Technical Implementation
+      description: List the technologies, frameworks, and tools used
+      placeholder: |
+        - Frontend: React, Tailwind CSS
+        - Backend: Node.js, Express
+        - Database: MongoDB
+        - Other tools: TensorFlow, AWS
+    validations:
+      required: true
+
+  - type: input
+    id: github-repo
+    attributes:
+      label: GitHub Repository
+      description: Link to your project repository
+      placeholder: https://github.com/username/project
+    validations:
+      required: true
+
+  - type: input
+    id: presentation
+    attributes:
+      label: Presentation Link
+      description: Share link to your project presentation (Google Drive/OneDrive)
+      placeholder: https://drive.google.com/file/d/...
+    validations:
+      required: true
+
+  - type: input
+    id: demo-video
+    attributes:
+      label: Demo Video
+      description: Link to your project demonstration video
+      placeholder: https://youtu.be/...
+    validations:
+      required: true
+
+  - type: textarea
+    id: future-scope
+    attributes:
+      label: Future Scope
+      description: How can your project be scaled and improved in the future?
+      placeholder: Future improvements include...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: Any other details you'd like to share?
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms and Conditions
+      description: By submitting, you agree to the hackathon rules and guidelines
+      options:
+        - label: I confirm this is my original work and I agree to the hackathon's rules and code of conduct
+          required: true
+        - label: I understand that my submission will be made public and open source after the hackathon
+          required: true
+        - label: I will be available to attend the Grand Finale in Bangalore if selected as a finalist
+          required: true
