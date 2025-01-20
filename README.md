@@ -1,7 +1,7 @@
 # 💧 The DropTalk Hackathon 2025
 
 <div align="center">
-  <img src="assets/banner.mp4" alt="DropTalk Hackathon Banner"/>
+  <img src="assets/banner.gif" alt="DropTalk Hackathon Banner"/>
   
   ### Innovate for Real-World Water Challenges with Tech
   
