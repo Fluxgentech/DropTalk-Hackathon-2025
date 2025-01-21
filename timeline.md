@@ -11,7 +11,7 @@
 - **Submission Deadline**: February 16, 2025, 11:59 PM
 
 ## Evaluation Phase
-- **Semi-Finals**: February 22-23, 2025 (Top 20 Teams)
+- **Semi-Finals**: February 22-23, 2025 (Top 20 Candidates)
 - **Results**: February 28, 2025 (Top 10 Announcement)
 - **Grand Finale**: April 16-17, 2025 (Bangalore)
 
