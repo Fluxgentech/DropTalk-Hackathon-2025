@@ -67,7 +67,7 @@
    - Acknowledgments
 
 ## Submission Process
-1. Fork the hackathon repository
-2. Create your project following the structure
-3. Submit via GitHub issues using the template
+1. Create a new issue in the repository using the "DropTalk Hackathon Submission" template
+2. Fill out all the required information following the project presentation and report templates
+3. Submit the issue
 4. Include all required links and documentation
