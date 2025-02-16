@@ -5,7 +5,7 @@
   
   ### Innovate for Real-World Water Challenges with Tech
   
-  [Register Now](https://forms.gle/QQQ5UR5nbScfbWkUA) | [Guidelines](guidelines.md) | [Topics](topics.md) | [Timeline](timeline.md) | [Prizes](prizes.md)
+  [Register Now](https://forms.gle/QQQ5UR5nbScfbWkUA) | [Guidelines](guidelines.md) | [Topics](topics.md) | [Timeline](timeline.md) | [Prizes](prizes.md) | [Submission](https://github.com/Fluxgentech/DropTalk-Hackathon-2025/issues/new?template=submission.yaml)
 </div>
 
 ## 🎯 About The Hackathon
